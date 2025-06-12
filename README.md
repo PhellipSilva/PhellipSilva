@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FNetBeans&psig=AOvVaw2bbyAyeaY6_JaBKpefM5gB&ust=1743764516939000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjR_r3au4wDFQAAAAAdAAAAABAE" height="40" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
